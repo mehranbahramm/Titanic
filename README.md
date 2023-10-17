@@ -7,3 +7,4 @@
 Titanic Survivors
 
 If you have any suggestions, I will be happy to tell me
+We want to predict how many passengers have a better chance of survival
